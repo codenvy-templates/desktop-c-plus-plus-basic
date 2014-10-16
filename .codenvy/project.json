@@ -1,1 +1,1 @@
-{"type":"cpp","attributes":{},"runners":{"default":"system:/cpp-standalone-default/default","configs":{}},"builders":{}}
+{"type":"cpp","attributes":{},"runners":{"default":"system:/cpp/simple","configs":{}},"builders":{}}
